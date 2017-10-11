@@ -1,0 +1,19 @@
+TABLE{
+    border: 1px solid #399;
+    width: 100%;
+    text-align:center;
+    border-spacing: 7px 5px;
+}
+TD {
+    background: #fc0;
+    border: 1px solid #333;
+    padding: 5px;
+}
+TH {
+    background: #ff8;
+    border: 1px solid #333;
+    padding: 5px;
+}
+H1 {
+    text-align:center;
+}
